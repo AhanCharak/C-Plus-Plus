@@ -37,3 +37,5 @@ Click on [Files menu](https://TheAlgorithms.github.io/C-Plus-Plus/files.html) to
 ## Contributions
 
 As a community developed and maintained repository, we welcome new un-plagiarized quality contributions. Please read our [Contribution Guidelines](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/CONTRIBUTING.md).
+
+![image alt](https://github.com/AhanCharak/C-Plus-Plus/blob/e78c62e3210a896eaaccf6f5a1b83ec2b6ce133b/jujutsu-kaisen-4k-satoru-s-blue-rose-zbixmer3lhp8nhcl.jpg)
